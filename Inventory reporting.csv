@@ -1,0 +1,25 @@
+SnapshotDate,SKU,Product,Category,Warehouse,UnitCost,SystemOnHand,AllocatedOpenOrders,QuarantineQty,UnpostedReceipts,UnpostedIssues,PhysicalCount,ExceptionType
+02/09/2026,A100,Standard Bearing 20mm,Bearings,Main Warehouse,8.5,120,30,0,0,0,120,None
+02/09/2026,A110,Standard Bearing 30mm,Bearings,Main Warehouse,11.2,85,20,0,15,0,100,Goods receipt not posted
+02/09/2026,A120,Heavy Duty Bearing 40mm,Bearings,Main Warehouse,18.75,200,75,10,0,0,200,Quarantined stock
+02/09/2026,A130,Heavy Duty Bearing 50mm,Bearings,Production Stores,24.4,64,12,0,0,8,56,Production issue not posted
+02/09/2026,A140,Sealed Bearing 25mm,Bearings,Main Warehouse,14.6,150,40,0,20,0,170,Goods receipt not posted
+02/09/2026,A150,Precision Bearing 15mm,Bearings,Main Warehouse,19.8,40,35,0,0,0,40,High allocation
+02/09/2026,B200,Drive Belt 750mm,Drive Components,Main Warehouse,6.4,300,120,25,0,0,300,Quarantined stock
+02/09/2026,B210,Drive Belt 900mm,Drive Components,Main Warehouse,7.1,110,15,0,0,0,104,Physical count shortage
+02/09/2026,B220,Timing Belt 500mm,Drive Components,Production Stores,12.9,95,0,0,0,12,83,Production issue not posted
+02/09/2026,B230,Timing Belt 800mm,Drive Components,Main Warehouse,16.5,260,180,0,40,0,300,Goods receipt not posted
+02/09/2026,B240,Drive Chain 1m,Drive Components,Main Warehouse,22.3,72,20,8,0,0,72,Quarantined stock
+02/09/2026,C300,Temperature Sensor,Sensors,Main Warehouse,31.5,500,320,0,0,0,500,High allocation
+02/09/2026,C310,Pressure Sensor,Sensors,Main Warehouse,42,180,60,0,25,0,205,Goods receipt not posted
+02/09/2026,C320,Proximity Sensor,Sensors,Main Warehouse,27.8,90,25,15,0,0,90,Quarantined stock
+02/09/2026,C330,Optical Sensor,Sensors,Production Stores,36.9,130,40,0,0,5,125,Production issue not posted
+02/09/2026,D400,Small Carton,Packaging,Packaging Store,0.42,45,10,0,0,0,47,Physical count surplus
+02/09/2026,D410,Medium Carton,Packaging,Packaging Store,0.58,220,100,30,0,0,220,Quarantined stock
+02/09/2026,D420,Large Carton,Packaging,Packaging Store,0.76,160,55,0,30,0,190,Goods receipt not posted
+02/09/2026,E500,Machine Lubricant 1L,Consumables,Production Stores,9.6,75,20,0,0,10,65,Production issue not posted
+02/09/2026,E510,Cleaning Solvent 1L,Consumables,Production Stores,6.8,140,70,5,0,0,140,Quarantined stock
+02/09/2026,E520,Protective Gloves Box,Consumables,Production Stores,5.25,38,30,0,0,0,38,High allocation
+02/09/2026,E530,Packing Tape Box,Consumables,Packaging Store,18.4,410,250,20,50,0,460,Receipt plus quarantine
+02/09/2026,E540,Stretch Wrap Roll,Consumables,Packaging Store,7.9,125,40,0,0,0,118,Physical count shortage
+02/09/2026,F600,24V Drive Motor,Motors,Main Warehouse,84.5,60,15,12,0,0,60,Quarantined stock
